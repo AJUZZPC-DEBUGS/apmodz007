@@ -4,7 +4,7 @@
 <p align="center">
     <a href="https://github.com/apmodz">
         <img
-        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=🤴✌️+Hi+am+kingsley+and+Still+learning+𝙾𝚏;how+to+deploy+and+create;best+regards+kingsley+plz+follow+And+we+should;work+together+on+More+Things🤖✌️."
+        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=🤴✌️+Hi+am+AjalJerry+and+Still+learning+𝙾𝚏;AjuzzPc Team +plz+follow..."
             alt="Typing SVG"
         />
     </a>
