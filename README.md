@@ -1,13 +1,19 @@
+<a href="https://imgbb.com/"><img src="https://ibb.co/XSdGGYm" alt="AJAL JERRY" border="0"></a>
+
+## <!-- Typing SVG -->
+<p align="center">
+    <a href="https://github.com/apmodz">
+        <img
+        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=🤴✌️+Hi+am+kingsley+and+Still+learning+𝙾𝚏;how+to+deploy+and+create;best+regards+kingsley+plz+follow+And+we+should;work+together+on+More+Things🤖✌️."
+            alt="Typing SVG"
+        />
+    </a>
+</p>
+
 - 👋 Hi, I’m @apmodz
-- 👀 I’m interested in github ...
-- 🌱 I’m currently learning programing ...
-- 💞️ I’m looking to my attitude ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ...cyber security
+- 🌱 I’m currently learning software developing
+- 📫 How to reach me ... [![WhatsApp carter](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918113036320) 
 
-<!---
-apmodz/apmodz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+THANKS FOR WATCHING MY GITHUB....
 
-[ Youtube Support ] : https://youtube.com/c/APMMODZ
-[ Instagram Follow ] : https://instagram.com/Ajuzz_pc
