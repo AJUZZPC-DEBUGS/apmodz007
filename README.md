@@ -5,7 +5,7 @@
     <a href="https://github.com/apmodz">
         <img
         src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=##+Hi+am+ajaljerry+and+Still+learning+𝙾𝚏;ajaljerry+pleass+Support."
-            alt="Typing Apm Modz"
+            alt="Typing Svg"
         />
     </a>
 </p>
