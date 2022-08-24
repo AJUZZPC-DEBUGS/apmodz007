@@ -1,10 +1,10 @@
-<a href="https://imgbb.com/"><img src="https://ibb.co/XSdGGYm" alt="AJAL JERRY" border="0"></a>
+<a <img src="https://ibb.co/XSdGGYm" alt="AJAL JERRY" border="0"></a>
 
 ## <!-- Typing SVG -->
 <p align="center">
     <a href="https://github.com/apmodz">
         <img
-        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=🤴✌️+Hi+am+AjalJerry+and+Still+learning+𝙾𝚏;AjuzzPc Team +plz+follow..."
+        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines+Hi+am+AjalJerry+and+Still+learning+𝙾𝚏;AjuzzPc Team +plz+follow"
             alt="Typing SVG"
         />
     </a>
