@@ -4,7 +4,7 @@
 <p align="center">
     <a href="https://github.com/Fadilzain">
         <img
-        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=🤴✌️+Hi+am+ajaljerry+and+Still+learning+𝙾𝚏;how+to+deploy+and+create;best+regards+ajaljerry+plz+follow+And+we+should;work+together+on+More+Things🤖✌️."
+        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=##+Hi+am+ajaljerry+and+Still+learning+𝙾𝚏;ajaljerry+pleass+Support+."
             alt="Typing SVG"
         />
     </a>
