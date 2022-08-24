@@ -1,14 +1,3 @@
-<a href="https://ibb.co/XSdGGYm"><img src="https://i.ibb.co/wMb22cD/Screenshot-20220721-135905-Chrome-01.jpg" alt="Screenshot-20220721-135905-Chrome-01" border="0"></a>" alt="AJUZZ PC" border="0"></a>
-
-## <!-- Typing SVG -->
-<p align="center">
-    <a href="https://github.com/apmodz">
-        <img
-        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=##+Hi+am+ajaljerry+and+Still+learning+𝙾𝚏;ajaljerry+pleass+Support."
-            alt="Typing Svg"
-        />
-    </a>
-</p>
 
 - 👋 Hi, I’m @Kíñgsléy
 - 👀 I’m interested in Cyber Security...
